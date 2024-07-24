@@ -11,7 +11,7 @@ Emphasizing open-mindedness, creativity, empathy, and positivity, the Transvalue
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
-[Drame Simulator](https://chatgpt.com/g/g-dwGLkpKB8-drama-simulator)
+[Drama Simulator](https://chatgpt.com/g/g-dwGLkpKB8-drama-simulator)
 <br>
 [Philosophy Simulator](https://chat.openai.com/g/g-DgaNOkP7Y-philosophy-simulator)
 <br>
