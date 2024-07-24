@@ -8,7 +8,7 @@ Emphasizing open-mindedness, creativity, empathy, and positivity, the Transvalue
 
 #
 
-> Alex: "*In business I utilize open-mindedness, transforming existing biases and perspectives.*"
+> Alex: "*In business I utilize open-mindedness while transforming existing biases and perspectives.*"
 
 #
 ### Related Links
